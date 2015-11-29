@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>adc_pi_plus</name>
+  <name>flobotics_adc_pi_plus</name>
   <version>0.0.0</version>
   <description>The adc_pi_plus package</description>
 
