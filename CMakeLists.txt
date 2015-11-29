@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(adc_pi_plus)
+project(flobotics_adc_pi_plus)
 
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
